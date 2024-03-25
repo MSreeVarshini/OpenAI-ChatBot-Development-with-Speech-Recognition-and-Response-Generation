@@ -1,5 +1,7 @@
 # OpenAI-ChatBot-Development-with-Speech-Recognition-and-Response-Generation
 
+Inspired by Avengers... I named my chatbot as JARVIS... 
+
 This project explores the development of a conversational AI chatbot utilizing OpenAI's capabilities for natural language processing and response generation. The chatbot integrates speech recognition for user input and text-to-speech for voiced responses, creating a human-like conversational experience.
 
 ### Features:
